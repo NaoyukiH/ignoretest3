@@ -1,3 +1,3 @@
 <?php
-echo 'wp-configですよ';
+echo 'wp-configですよー';
 ?>
